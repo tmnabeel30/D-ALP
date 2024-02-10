@@ -1,0 +1,613 @@
+
+General Medical Terms
+- Diagnosis
+- Treatment
+- Prognosis
+- Symptoms
+- Therapy
+
+Diagnostic Tests
+- Blood Test
+  - Complete Blood Count (CBC)
+  - Lipid Profile
+  - Blood Glucose
+  - Liver Function Tests (LFT)
+  - Kidney Function Tests (KFT)
+  - Thyroid Function Tests (TFT)
+- Imaging
+  - X-ray
+  - CT scan (Computed Tomography)
+  - MRI (Magnetic Resonance Imaging)
+  - Ultrasound
+  - PET scan (Positron Emission Tomography)
+  - Mammography
+- Biopsy
+- Electrocardiogram (ECG or EKG)
+- Echocardiogram
+- Endoscopy
+- Colonoscopy
+
+Common Diseases and Conditions
+- Diabetes
+- Hypertension (High Blood Pressure)
+- Hyperlipidemia (High Cholesterol)
+- Asthma
+- COPD (Chronic Obstructive Pulmonary Disease)
+- Heart Disease
+- Stroke
+- Cancer (specify types, e.g., Breast Cancer, Lung Cancer)
+- Osteoporosis
+- Arthritis
+- Alzheimer's Disease
+- Parkinson's Disease
+
+Body Parts and Systems
+- Heart
+- Lungs
+- Liver
+- Kidney
+- Brain
+- Stomach
+- Intestine
+- Bones
+- Muscles
+- Blood Vessels
+
+Medications and Treatments
+- Antibiotics
+- Antihypertensives
+- Antidiabetics
+- Chemotherapy
+- Radiation Therapy
+- Immunotherapy
+- Surgical Procedures
+- Physical Therapy
+- Rehabilitation
+
+Medical Equipment and Supplies
+- Stethoscope
+- Syringe
+- Catheter
+- MRI Machine
+- Ultrasound Machine
+- ECG Machine
+- Surgical Instruments
+- Prosthetics
+
+Miscellaneous
+- Patient History
+- Family History
+- Allergies
+- Immunization
+- Lifestyle Factors (smoking status, alcohol consumption)
+- Social History
+
+Common Units of Measurement
+- mg/dL (milligrams per deciliter)
+- g/dL (grams per deciliter)
+- mIU/mL (milli-international units per milliliter)
+- U/L (units per liter)
+- mmol/L (millimoles per liter)
+- /μL or /mm^3 (per microliter or per cubic millimeter)
+
+Common Measurements and Keywords in Blood Tests
+- Hemoglobin (Hb or Hgb)
+- Hematocrit (Hct)
+- Red Blood Cells (RBC)
+- White Blood Cells (WBC)
+- Platelets (Plt)
+- Mean Corpuscular Volume (MCV)
+- Mean Corpuscular Hemoglobin (MCH)
+- Mean Corpuscular Hemoglobin Concentration (MCHC)
+- Red Cell Distribution Width (RDW)
+- Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils
+- Glucose
+- Urea/Blood Urea Nitrogen (BUN)
+- Creatinine
+- Uric Acid
+- Cholesterol - Total, LDL, HDL, Triglycerides
+- Liver Enzymes - AST, ALT, Alkaline Phosphatase (ALP), Gamma-Glutamyl Transferase (GGT)
+- Total Protein, Albumin, Globulin
+- Bilirubin - Total and Direct
+- Sodium (Na)
+- Potassium (K)
+- Calcium (Ca)
+- Magnesium (Mg)
+- Chloride (Cl)
+- Phosphate (Phos)
+- Thyroid-Stimulating Hormone (TSH)
+- Free Thyroxine (FT4)
+- Free Triiodothyronine (FT3)
+
+Reference Ranges and Indicators
+- "Normal range" or "Reference range"
+- "High" or "Low"
+- "Elevated" or "Decreased"
+- "Critical values" or "Urgent values"
+
+Additional Keywords for Analysis
+- "Interpretation"
+- "Out of range"
+- "Follow-up"
+- "Trend analysis"
+- "Comparative analysis"
+
+CT Scan Report
+
+The patient underwent a high-resolution computed tomography (HRCT) scan of the chest to evaluate persistent cough and shortness of breath. The images reveal bilateral ground-glass opacities, predominantly located in the lower lobes, consistent with infectious or inflammatory processes. No evidence of pulmonary embolism or pleural effusion was noted. The cardiac silhouette is within normal limits for size and contour. Recommendations include correlation with clinical findings and consideration of further evaluation for possible infectious agents or autoimmune conditions.
+
+Blood Test Results
+
+The complete blood count (CBC) indicates a slight elevation in white blood cell count (WBC), suggesting a possible infection or inflammation. Hemoglobin and hematocrit levels are within normal ranges, indicating no evidence of anemia. The differential count shows a higher percentage of neutrophils, consistent with an acute bacterial infection. Liver function tests (LFTs) are within normal limits, suggesting no immediate hepatic impairment. Further tests, including C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), are recommended to assess the extent of inflammation.
+
+Urine Test Analysis
+
+The urinalysis report shows a clear, yellow specimen with a specific gravity within normal limits. No protein or glucose is detected, indicating no evidence of nephrotic syndrome or diabetes mellitus. However, there are traces of leukocytes and nitrites, suggesting a urinary tract infection (UTI). A culture and sensitivity test is recommended to identify the causative agent and determine the appropriate antibiotic treatment.
+
+Prescription Overview
+
+The patient is prescribed Amoxicillin 500mg three times a day for 10 days to address the suspected bacterial infection indicated by the blood and urine tests. Additionally, Paracetamol 500mg every 6 hours is advised to manage fever and discomfort. The patient is instructed to drink plenty of fluids, rest, and monitor symptoms. A follow-up appointment is scheduled in two weeks to re-evaluate the condition and adjust treatment as necessary.
+
+General Medical Advice
+
+Patients are reminded to adhere strictly to the prescribed medication regimen and follow all lifestyle and dietary recommendations provided by their healthcare provider. Regular monitoring of symptoms and prompt reporting of any adverse reactions or worsening conditions are crucial for effective management and recovery. It is also important to keep all follow-up appointments for ongoing assessment and adjustment of treatment plans as needed.
+
+Radiology Report: Abdominal Ultrasound
+
+The abdominal ultrasound was performed to evaluate complaints of abdominal pain and distension. The liver appears homogenous without focal lesions; however, there is mild hepatomegaly. The gallbladder is normal in size and contour, with no evidence of cholelithiasis or cholecystitis. The pancreas is obscured due to bowel gas, suggesting a follow-up with an abdominal CT scan for comprehensive evaluation. The spleen and kidneys are unremarkable, with no signs of splenomegaly or renal calculi. A trace amount of free fluid is noted in the pelvis, which may warrant further investigation considering the patient’s clinical symptoms.
+
+Blood Chemistry Panel
+
+The comprehensive metabolic panel reveals elevated blood glucose levels, indicative of possible diabetes mellitus. Serum creatinine and blood urea nitrogen (BUN) are slightly above normal ranges, suggesting a need for further renal function evaluation. Electrolytes including sodium, potassium, and chloride are within normal limits. The lipid profile shows elevated LDL cholesterol and triglycerides, raising concerns for dyslipidemia. Thyroid function tests indicate normal thyroid-stimulating hormone (TSH) and free T4 levels. Recommendations include a follow-up glucose tolerance test and consultation with a nephrologist and a dietitian for renal function assessment and dietary management.
+
+Microbiology Report: Culture and Sensitivity
+
+The sputum culture results indicate the presence of Streptococcus pneumoniae, sensitive to penicillin, erythromycin, and levofloxacin. This finding correlates with the clinical presentation of pneumonia and supports the antibiotic therapy initiated based on empirical treatment guidelines. The urine culture identifies Escherichia coli, resistant to ampicillin but sensitive to ciprofloxacin and nitrofurantoin, guiding the adjustment of antibiotic treatment for the urinary tract infection. The patient is advised to complete the full course of antibiotics and return for a follow-up culture to ensure the eradication of the infection.
+
+Prescription Update and Lifestyle Recommendations
+
+Given the new findings, the antibiotic regimen is adjusted to Levofloxacin 500mg once daily for 14 days to address the pneumonia, and Ciprofloxacin 250mg twice daily for 7 days for the UTI. The patient is also started on Metformin 500mg twice daily for the management of elevated blood glucose levels, with a referral to an endocrinologist for comprehensive diabetes care. Dietary modifications to reduce saturated fats and simple carbohydrates are recommended, along with a structured exercise program to improve cardiovascular health and glycemic control. Regular monitoring of blood pressure, cholesterol levels, and HbA1c is recommended to assess the effectiveness of treatment and lifestyle changes.
+
+Patient Education and Follow-Up Care
+
+The importance of medication adherence, lifestyle changes, and regular follow-up visits is emphasized to the patient. Educational materials on diabetes management, infection prevention, and the importance of regular physical activity are provided. The patient is encouraged to maintain a log of blood glucose readings, symptoms, dietary intake, and physical activity to discuss during follow-up visits. A multidisciplinary approach involving primary care, endocrinology, and dietetics is planned to provide comprehensive care and support to the patient.
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P17/12/2017 5:03:01PM
+:::
+::::
+Cumulative55 YearsMr. RANBIR SINGH17/12/2017 8:37:00AM17/12/2017 8:39:24AM139123642MaleCGHSTest NameLab No/DateUnitsLab No/DateLab No/Date
+139123642 136582666 13117691417/12/2017 30/4/2017 21/8/2016
+Lab No/Date
+1243478636/3/2016g/dL--10.00Hemoglobin -%--35.50Packed Cell Volume (PCV) -mill/mm3--5.10RBC Count -fL--69.60MCV -pg--19.60MCH -g/dL--28.20MCHC -%--16.60Red Cell Distribution Width (RDW)-thou/mm3--4.93Total Leukocyte Count (TLC) -%--43.30Segmented Neutrophils -%--44.60Lymphocytes -%--8.30Monocytes -%--3.20Eosinophils -%--0.60Basophils -thou/mm3--2.13Neutrophils -thou/mm3--2.20Lymphocytes -thou/mm3--0.41Monocytes -thou/mm3--0.16Eosinophils -thou/mm3--0.03Basophils -thou/mm3--213.0Platelet Count -73 -- mm/hr -
+ESR
+309.00 -- mg/dL-
+Glucose, Fasting
+0.220 -- ng/mL-
+PSA (PROSTATE SPECIFIC ANTIGEN), TOTAL, SERUM
+21.65 -- nmol/L-
+VITAMIN D, 25 - HYDROXY, SERUM
+ This is an electronically validated cumulative report. No signature required.
+Page 2 of 2                                          
+
+Highlight
+Add Note
+Share Quote
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. IntervalSWASTHFIT SUPER 4 PACKAGELIVER & KIDNEY PANEL, SERUM
+(Spectrophotometry, Indirect ISE)0.42Bilirubin Total 0.30 - 1.20 mg/dL0.10Bilirubin Direct <0.20 mg/dL0.32Bilirubin Indirect <1.10 mg/dL25 AST (SGOT) <50 U/L42 ALT (SGPT) <50 U/L29GGTP <55 U/L84 Alkaline Phosphatase (ALP) 30 - 120 U/L7.68Total Protein 6.40 - 8.30 g/dL4.03 Albumin 3.50 - 5.20 g/dL1.10 A : G Ratio 0.90 - 2.00 17.00Urea 17.00 - 43.00 mg/dL
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+Page 1 of 12                                          
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. IntervalSWASTHFIT SUPER 4 PACKAGELIVER & KIDNEY PANEL, SERUM
+(Spectrophotometry, Indirect ISE)0.42Bilirubin Total 0.30 - 1.20 mg/dL0.10Bilirubin Direct <0.20 mg/dL0.32Bilirubin Indirect <1.10 mg/dL25 AST (SGOT) <50 U/L42 ALT (SGPT) <50 U/L29GGTP <55 U/L84 Alkaline Phosphatase (ALP) 30 - 120 U/L7.68Total Protein 6.40 - 8.30 g/dL4.03 Albumin 3.50 - 5.20 g/dL1.10 A : G Ratio 0.90 - 2.00 17.00Urea 17.00 - 43.00 mg/dL
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+Page 1 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. Interval
+0.78Creatinine 0.67 - 1.17 mg/dL
+7.30
+Uric Acid 3.50 - 7.20 mg/dL
+8.77
+Calcium, Total 8.80 - 10.60 mg/dL3.75Phosphorus 2.40 - 4.40 mg/dL
+135.00
+Sodium 136.00 - 146.00 mEq/L4.05Potassium 3.50 - 5.10 mEq/L101.00Chloride 101.00 - 109.00 mEq/L
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+Page 2 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. IntervalCOMPLETE BLOOD COUNT;CBC
+(Electrical Impedence & Flow)Hemoglobin 13.00 - 17.00 g/dL15.80Packed Cell Volume (PCV) 40.00 - 50.00 %48.80RBC Count 4.50 - 5.50 mill/mm3
+5.70
+MCV 80.00 - 100.00 fL85.60MCH 27.00 - 32.00 pg27.70MCHC 32.00 - 35.00 g/dL32.40Red Cell Distribution Width (RDW) 11.50 - 14.50 %12.60Total Leukocyte Count (TLC) 4.00 - 10.00 thou/mm3
+10.95Differential Leucocyte Count (DLC)
+ 40.00 - 80.00 Segmented Neutrophils%61.30 20.00 - 40.00 Lymphocytes%29.50 2.00 - 10.00 Monocytes%6.30 1.00 - 6.00 Eosinophils%2.50 <2.00 Basophils%0.40
+Absolute Leucocyte Count
+ 2.00 - 7.00 Neutrophilsthou/mm36.71 1.00 - 3.00 Lymphocytesthou/mm3
+3.23
+ 0.20 - 1.00 Monocytesthou/mm30.69 0.02 - 0.50 Eosinophilsthou/mm30.27 0.01 - 0.10 Basophilsthou/mm30.04Platelet Count 150.00 - 450.00 thou/mm3299.0
+Page 3 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. Interval
+Mean Platelet Volume (MPV) 6.50 - 12.00 fL11.00
+Note
+1. As per the recommendation of International council for Standardization in Hematology, the differential leucocyte counts are additionally being reported as absolute numbers of each cell in per unit volume of  blood 2. Test conducted on EDTA whole blood
+Page 4 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. IntervalHbA1c (GLYCOSYLATED HEMOGLOBIN), BLOOD
+(HPLC)HbA1c5.7%Estimated average glucose (eAG)117mg/dL
+Interpretation
+ ------------------------------------------------------------------------------- | As per American Diabetes Association (ADA) ||-------------------------------------------------------------------------------| | Reference Group | HbA1c in % ||-------------------------------|-----------------------------------------------| | Non diabetic adults >=18 years| 4.0 - 5.6 | |-------------------------------|-----------------------------------------------| | At risk (Prediabetes) | 5.7 - 6.4 | |-------------------------------|-----------------------------------------------| | Diagnosing Diabetes | >= 6.5 ||-------------------------------|-----------------------------------------------|| Therapeutic goals for glycemic| . Goal of therapy: < 7.0 || control | . Action suggested: > 8.0 | -------------------------------------------------------------------------------
+Note
+1.Since HbA1c reflects long term fluctuations in the blood glucose concentration, a diabetic patient who is recently under good control may still have a high concentration of HbA1c. Converse is true for a diabetic previously under good control but now poorly controlled2.Target goals of < 7.0 % may be beneficial in patients with short duration of diabetes, long life expectancy and no significant cardiovascular disease. In patients with significant complications of diabetes, limited life expectancy or extensive co-morbid conditions, targeting a goal of < 7.0 % may not be appropriate3.Any condition that shortens erythrocyte survival such as sickle cell disease, pregnancy (second and third trimesters), hemodialysis, recent blood loss or transfusion, or erythropoietin will falsely lower HbA1c results regardless of the assay method4.In patients with HbA1c level between 7-8%, Glycemark (1,5 Anhydroglucitol) test may be done to identify those with more frequent and extreme hyperglycemic excursions
+PatientReportSCSuperPanel.HBELECTRO_SC (Version: 7)
+Page 5 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. Interval
+Comments
+HbA1c provides an index of average blood glucose levels over the past 8 - 12 weeks and is a much better indicator of long term glycemic control as compared to blood and urinary glucose determinations. This single test can be used both for diagnosing & monitoring diabetes. ADA recommends measurement of HbA1c 3-4 times per year in Type 1 diabetes and poorly controlled Type 2 diabetes patients. In well controlled Type 2 diabetes patients, the test can be performed twice a year.
+PatientReportSCSuperPanel.HBELECTRO_SC (Version: 7)
+Page 6 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. IntervalTHYROID PROFILE,TOTAL, SERUM
+(Chemiluminescent Immunoassay)1.05T3, Total 0.60 - 1.81 ng/mL7.00T4, Total 5.01 - 12.45 ug/dL3.86TSH 0.35 - 5.50 uIU/mL
+Note
+1.TSH levels are subject to circadian variation, reaching peak levels between 2 - 4.a.m. and at a minimum between 6-10 pm . The variation is of the order of 50%, hence time of the day has influence on the measured serum TSH concentrations.2. Recommended test for T3 and T4 is unbound fraction or free levels as it is metabolically active.3.Physiological rise in Total T3 / T4 levels is seen in pregnancy and in patients on steroid therapy.
+Clinical Use
+·
+Primary Hypothyroidism
+·
+Hyperthyroidism
+·
+Hypothalamic - Pituitary hypothyroidism
+·
+Inappropriate TSH secretion
+·
+Nonthyroidal illness
+·
+ Autoimmune thyroid disease
+·
+Pregnancy associated thyroid disorders
+·
+Thyroid dysfunction in infancy and early childhood
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+Page 7 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. IntervalLIPID PROFILE, SCREEN
+(Enzymatic Spectrophotometry)Cholesterol, Total156.00mg/dL<200.00Triglycerides114.00mg/dL<150.00HDL Cholesterol
+38.00
+mg/dL>40.00LDL Cholesterol, Calculated95.20mg/dL<100.00VLDL Cholesterol,Calculated22.80mg/dL<30.00Non-HDL Cholesterol118mg/dL<130
+Interpretation
+ 
+------------------------------------------------------------------------------------------------| REMARKS | TOTAL CHOLESTEROL | TRIGLYCERIDE | LDL CHOLESTEROL | NON HDL CHOLESTEROL || | in mg/dL | in mg/dL | in mg/dL | in mg/dL ||-------------------|--------------------|---------------|-----------------|---------------------|| Optimal | <200 | <150 | <100 | <130 ||-------------------|--------------------|---------------|-----------------|---------------------|| Above Optimal | - | - | 100-129 | 130 - 159 ||-------------------|--------------------|---------------|-----------------|---------------------|| Borderline High | 200-239 | 150-199 | 130-159 | 160 - 189 ||-------------------|--------------------|---------------|-----------------|---------------------|| High | >=240 | 200-499 | 160-189 | 190 - 219 ||-------------------|--------------------|---------------|-----------------|---------------------|| Very High | - | >=500 | >=190 | >=220 | ------------------------------------------------------------------------------------------------
+Note
+1.Measurements in the same patient can show physiological & analytical variations. Three serial samples 1 week apart are recommended for Total Cholesterol, Triglycerides, HDL& LDL Cholesterol.2.NLA-2014 recommends a complete lipoprotein profile as the initial test for evaluating cholesterol.3.Friedewald equation to calculate LDL cholesterol is most accurate when Triglyceride level is < 400 mg/dL. Measurement of Direct LDL cholesterol is recommended when Triglyceride level is > 400 mg/dL4.NLA-2014 identifies Non HDL Cholesterol(an indicator of all atherogeniclipoproteins such as LDL ,
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+* Not in NABL scope
+Page 8 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. Interval
+VLDL, IDL, Lpa, Chylomicron remnants)along with LDL-cholesterol as co- primary target for cholesterol lowering therapy. Note that major risk factors can modify treatment goals for LDL &Non HDL.5.Apolipoprotein B is an optional, secondary lipid target for treatment once LDL & Non HDL goals have been achieved6.Additional testing for Apolipoprotein B, hsCRP,Lp(a ) & LP-PLA2 should be considered among patients with moderate risk for ASCVD for risk refinement
+Treatment Goals as per Lipid Association of India 2016
+ ----------------------------------------------------------------------------------------------| RISK | TREATMENT GOAL | CONSIDER THERAPY || CATEGORY |-----------------------------------------|-----------------------------------------|| | LDL CHOLESTEROL | NON HDL CHLOESTEROL | LDL CHOLESTEROL | NON HDL CHLOESTEROL || | (LDL-C)(mg/dL) | (NON HDL-C) (mg/dL) | (LDL-C)(mg/dL) | (NON HDL-C) (mg/dL) ||----------|------------------|----------------------|------------------|----------------------|| Very | <50 | <80 | >=50 | >=80 || High | | | | ||----------|------------------|----------------------|------------------|----------------------|| High | <70 | <100 | >=70 | >=100 ||----------|------------------|----------------------|------------------|----------------------|| Moderate | <100 | <130 | >=100 | >=130 ||----------|------------------|----------------------|------------------|----------------------|| Low | <100 | <130 | >=130* | >=160* | ----------------------------------------------------------------------------------------------
+*In low risk patient, consider therapy after an initial non-pharmacological intervention for at least 3 months
+VITAMIN B12; CYANOCOBALAMIN, SERUM
+ *
+(Chemiluminescent Immunoassay)391.00pg/mL211.00 - 911.00
+Notes 1. To differentiate vitamin B12 & folate deficiency, measurement of Methyl malonic acid & Homocysteine levels in serum is suggested 2. The diagnosis of B12 deficiency cannot be solely based on serum B12 levels. Further testing for folic acid, intrinsic factor blocking antibodies, holotranscobalamin (active B12), homocysteine, and/or methylmalonic acid is suggested for symptomatic patients with hematological or neurological abnormalities 3. The concentration of Vitamin B12 obtained with different assay methods cannot be used interchangeably due to differences in assay methods and reagent specificity
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+* Not in NABL scope
+Page 9 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. Interval
+Comments
+Vitamin B12 performs many important functions in the body, but the most significant function is to act as co-enzyme for reducing ribonucleotides to deoxyribonucleotides, a step in the formation of genes. Inadequate dietary intake is not the commonest cause for cobalamine deficiency. The most common cause is malabsorption either due to atrophy of gastric mucosa or diseases of terminal ileum. Cobalamine deficiency leads to Megaloblastic anemia and demyelination of large nerve fibres of spinal cord. Normal body stores are sufficient to last for 3-6 years. Sources of Vitamin B12 are liver, shellfish, fish, meat, eggs, milk, cheese & yogurt.
+Decreased Levels
+·
+Lack of Intrinsic factor:
+Total or partial gastrectomy, Atrophic gastritis, Intrinsic factor antibodies
+·
+Malabsorption
+: Regional ileitis, resected bowel, Tropical Sprue, Celiac disease, pancreatic insufficiency, bacterial overgrowth & achlorhydria
+·
+Loss of ingested vitamin B12:
+fish tapeworm
+·
+Dietary deficiency:
+Vegetarians
+·
+Congenital disorders:
+Orotic aciduria & transcobalamine deficiency
+·
+Increased demand
+: Pregnancy specially last trimester 
+Increased Levels
+Chronic renal failure, Congestive heart failure, Acute & Chronic Myeloid Leukemia, Polycythemia vera, Carcinomas with liver metastasis, Liver disease, Drug induced cholestasis & Protein malnutrition
+VITAMIN D, 25 - HYDROXY, SERUM
+ *
+(Chemiluminescence)
+23.35
+nmol/L75.00 - 250.00
+Interpretation
+-------------------------------------------------------------| LEVEL | REFERENCE RANGE | COMMENTS || | IN nmol/L | ||---------------|-----------------|---------------------------|| Deficient | < 50 | High risk for developing || | | bone disease ||---------------|-----------------|---------------------------|| Insufficient | 50-74 | Vitamin D concentration || | | which normalizes |
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+* Not in NABL scope
+Page 10 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. Interval
+| | | Parathyroid hormone || | | concentration ||---------------|-----------------|---------------------------|| Sufficient | 75-250 | Optimal concentration | | | | for maximal health benefit||---------------|-----------------|---------------------------|| Potential | >250 | High risk for toxic || intoxication | | effects | -------------------------------------------------------------
+Note
+·
+The assay measures both D2 (Ergocalciferol) and D3 (Cholecalciferol) metabolites of vitamin D.
+·
+25 (OH)D is influenced by sunlight, latitude, skin pigmentation, sunscreen use and hepatic function.
+·
+Optimal calcium absorption requires vitamin D 25 (OH) levels exceeding 75 nmol/L.
+·
+It shows seasonal variation, with values being 40-50% lower in winter than in summer.
+·
+Levels vary with age and are increased in pregnancy.
+·
+ A new test Vitamin D, Ultrasensitive by LC-MS/MS is also available
+Comments
+Vitamin D promotes absorption of calcium and phosphorus and mineralization of bones and teeth. Deficiency in children causes Rickets and in adults leads to Osteomalacia. It can also lead to Hypocalcemia and Tetany. Vitamin D status is best determined by measurement of 25 hydroxy vitamin D, as it is the major circulating form and has longer half life (2-3 weeks) than 1,25 Dihydroxy vitamin D (5-8 hrs).
+Decreased Levels
+·
+Inadequate exposure to sunlight
+·
+Dietary deficiency
+·
+Vitamin D malabsorption
+·
+Severe Hepatocellular disease
+·
+Drugs like Anticonvulsants
+·
+Nephrotic syndrome
+Increased levels
+Vitamin D intoxication
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+* Not in NABL scope
+Page 11 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+S60 - VCC AYURVEDA & MEDIC 
+Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P
+:::
+::::
+Final33 Years10/9/2019 7:47:00AM10/9/2019 8:25:56AM147879793MaleDr. SELFMr. SHUBHIT PRASAD10/9/2019 1:21:53PMTest NameResultsUnitsBio. Ref. Interval
+Dr Parul JoshiMD, PathologyChief of Laboratory Dr Lal PathLabs Ltd
+ -------------------------------End of report --------------------------------
+IMPORTANT INSTRUCTIONS
+*
+Test results released pertain to the specimen submitted.
+*
+ All test results are dependent on the quality of the sample received by the Laboratory.
+*
+Laboratory investigations are only a tool to facilitate in arriving at a diagnosis and should be clinically correlated by the Referring Physician.
+*
+Sample repeats are accepted on request of Referring Physician within 7 days post reporting.
+*
+Report delivery may be delayed due to unforeseen circumstances. Inconvenience is regretted.
+*
+Certain tests may require further testing at additional cost for derivation of exact value. Kindly submit request within 72 hours post reporting.
+*
+Test results may show interlaboratory variations.
+*
+The Courts/Forum at Delhi shall have exclusive urisdiction in all disputes/claims concerning the test(s) & or results of test(s).
+*
+Test results are not valid for medico legal purposes. *Contact customer care Tel No. +91-11-39885050 for all queries related to test results.(#) Sample drawn from outside source.PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+* Not in NABL scope
+Page 12 of 12                                          
+
+AD
+
+Download to read ad-free.
+ 
+A49 - PSC LORDS FAVOUR2, MAKKI MASJID, MEER DARD ROAD, MAMC CAMPUS, DELHI GATE, NEW DELHI 
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final66 Years14/4/2020 11:30:00AM14/4/2020 11:55:31AM149914647MaleDr.KALRAMr. C.S LAHIRI14/4/2020 5:48:16PMTest NameResultsUnitsBio. Ref. IntervalCOMPLETE BLOOD COUNT;CBC
+Hemoglobin
+(Photometry)
+ 13.00 - 17.00 g/dL
+12.40
+Packed Cell Volume (PCV)
+(Calculated)
+ 40.00 - 50.00 %
+39.20
+RBC Count
+(Electrical Impedence)
+ 4.50 - 5.50 mill/mm34.54MCV
+(Electrical Impedence)
+ 80.00 - 100.00 fL86.30MCH
+(Calculated)
+ 27.00 - 32.00 pg27.40MCHC
+(Calculated)
+ 32.00 - 35.00 g/dL
+31.70
+Red Cell Distribution Width (RDW)
+(Electrical Impedence)
+ 11.50 - 14.50 %14.10Total Leukocyte Count (TLC)
+(Electrical Impedence)
+ 4.00 - 10.00 thou/mm35.90
+Differential Leucocyte Count (DLC)(VCS Technology)
+ 40.00 - 80.00 Segmented Neutrophils%56.70 20.00 - 40.00 Lymphocytes%22.00 2.00 - 10.00 Monocytes%8.70 1.00 - 6.00 Eosinophils%
+11.90
+ <2.00 Basophils%0.70
+Absolute Leucocyte Count(Calculated)
+ 2.00 - 7.00 Neutrophilsthou/mm33.35 1.00 - 3.00 Lymphocytesthou/mm31.30 0.20 - 1.00 Monocytesthou/mm30.51 0.02 - 0.50 Eosinophilsthou/mm3
+0.70
+ 0.01 - 0.10 Basophilsthou/mm30.04Platelet Count
+(Electrical impedence)
+ 150.00 - 450.00 thou/mm3
+111.0
+Page 2 of 3                                          
+
+AD
+
+Download to read ad-free.
+ 
+A49 - PSC LORDS FAVOUR2, MAKKI MASJID, MEER DARD ROAD, MAMC CAMPUS, DELHI GATE, NEW DELHI 
+Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P
+:::
+::::
+Final66 Years14/4/2020 11:30:00AM14/4/2020 11:55:31AM149914647MaleDr.KALRAMr. C.S LAHIRI14/4/2020 5:48:16PMTest NameResultsUnitsBio. Ref. Interval
+Mean Platelet Volume (MPV)
+(Electrical Impedence)
+ 6.50 - 12.00 fL10.90
+Note
+1. As per the recommendation of International council for Standardization in Hematology, the differential leucocyte counts are additionally being reported as absolute numbers of each cell in per unit volume of  blood 2. Test conducted on EDTA whole blood
+Dr Anand Chandrasekaran AnnanMD (American Board of Pathology)PhD (Molecular & Cellular Pathology) HOD - OncopathologyDr Himangshu Mazumdar MD, BiochemistrySenior Consultant - Clinical Chemistry & Biochemical Genetics NRL - Dr Lal PathLabs LtdDr.Kamal ModiMD, BiochemistryConsultant Biochemist NRL - Dr Lal PathLabs LtdDr Nimmi KansalMD, BiochemistryNational Head - Clinical Chemistry & Biochemical Genetics NRL - Dr Lal PathLabs LtdDr SunandaMD, PathologyConsultant NRL - Dr Lal PathLabs LtdDr Parul ChopraMD, Laboratory MedicineConsultant NRL - Dr Lal PathLabs LtdDr Anil AroraMD, PathologyHOD Hematology & Immunohematology NRL - Dr Lal PathLabs Ltd
+ -------------------------------End of report --------------------------------
+IMPORTANT INSTRUCTIONS
+*
+Test results released pertain to the specimen submitted.
+*
+ All test results are dependent on the quality of the sample received by the Laboratory.
+*
+Laboratory investigations are only a tool to facilitate in arriving at a diagnosis and should be clinically correlated by the Referring Physician.
+*
+Sample repeats are accepted on request of Referring Physician within 7 days post reporting.
+*
+Report delivery may be delayed due to unforeseen circumstances. Inconvenience is regretted.
+*
+Certain tests may require further testing at additional cost for derivation of exact value. Kindly submit request within 72 hours post reporting.
+*
+Test results may show interlaboratory variations.
+*
+The Courts/Forum at Delhi shall have exclusive urisdiction in all disputes/claims concerning the test(s) & or results of test(s).
+*
+Test results are not valid for medico legal purposes. *Contact customer care Tel No. +91-11-39885050 for all queries related to test results.(#) Sample drawn from outside source
+
+A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. IntervalSwasthFit Super 4COMPLETE BLOOD COUNT;CBC (Photometry,Electrical Impedence,VCS Technology,Calculated)Hemoglobin 12.00 - 15.00 g/dL 11.60 Packed Cell Volume (PCV) 36.00 - 46.00 % 35.30 RBC Count 3.80 - 4.80 mill/mm33.94MCV 83.00 - 101.00 fL89.80MCH 27.00 - 32.00 pg29.40MCHC 31.50 - 34.50 g/dL33.00Red Cell Distribution Width (RDW) 11.60 - 14.00 % 14.70 Total Leukocyte Count (TLC) 4.00 - 10.00 thou/mm34.30 Differential Leucocyte Count (DLC)  40.00 - 80.00 Segmented Neutrophils%56.60 20.00 - 40.00 Lymphocytes%34.00 2.00 - 10.00 Monocytes%6.40 1.00 - 6.00 Eosinophils%2.40 <2.00 Basophils%0.60 Absolute Leucocyte Count  2.00 - 7.00 Neutrophilsthou/mm32.43 1.00 - 3.00 Lymphocytesthou/mm31.46 0.20 - 1.00 Monocytesthou/mm30.28 0.02 - 0.50 Eosinophilsthou/mm30.10 0.02 - 0.10 Basophilsthou/mm30.03Platelet Count 150.00 - 410.00 thou/mm3 112.0 ResultRechecked,PleaseCorrelateClinically. Page 1 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. Interval Mean Platelet Volume 6.5 - 12.0 fL 12.5 Note 1. As per the recommendation of International council for Standardization in Hematology, the differential leucocyte counts are additionally being reported as absolute numbers of each cell in per unit volume of  blood 2. Test conducted on EDTA whole blood Page 2 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. IntervalLIVER & KIDNEY PANEL, SERUM 0.57Bilirubin Total(DPD) 0.30 - 1.20 mg/dL0.10Bilirubin Direct(DPD) <0.30 mg/dL0.47Bilirubin Indirect(Calculated) <1.10 mg/dL31 AST (SGOT)(IFCC without P5P) <35 U/L25 ALT (SGPT)(IFCC without P5P) <35 U/L17GGTP(GCNA) <38 U/L57 Alkaline Phosphatase (ALP)(PNPP) 30 - 120 U/L6.88Total Protein(Biuret) 6.40 - 8.30 g/dL4.05 Albumin(BCG) 3.50 - 5.20 g/dL1.43 A : G Ratio(Calculated) 0.90 - 2.00 31.30Urea(Urease UV) 17.00 - 43.00 mg/dL0.77Creatinine(Modified Jaffe) 0.51 - 0.95 mg/dL5.13Uric Acid(Uricase) 2.60 - 6.00 mg/dL PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6) Page 3 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. Interval 9.58Calcium, Total(Arsenazo III) 8.80 - 10.60 mg/dL3.62Phosphorus(Molybdate UV) 2.40 - 4.40 mg/dL139.10Sodium(Indirect ISE) 136.00 - 146.00 mEq/L4.65Potassium(Indirect ISE) 3.50 - 5.10 mEq/L103.00Chloride(Indirect ISE) 101.00 - 109.00 mEq/L PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6) Page 4 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. IntervalHbA1c (GLYCOSYLATED HEMOGLOBIN), BLOOD (HPLC, NGSP certified)HbA1c 5.8 %4.00 - 5.60Estimated average glucose (eAG)120mg/dL Interpretation HbA1c result is suggestive of at risk for Diabetes (Prediabetes)/ well controlled Diabetes in a known Diabetic Note:  Presence of Hemoglobin variants and/or conditions that affect red cell turnover must be considered, particularly when the HbA1C result does not correlate with the patient’s blood glucose levels.  ---------------------------------------------------------------------------------| FACTORS THAT INTERFERE WITH HbA1C | FACTORS THAT AFFECT INTERPRETATION || MEASUREMENT | OF HBA1C RESULTS ||--------------------------------------|------------------------------------------|| Hemoglobin variants,elevated fetal | Any condition that shortens erythrocyte || hemoglobin (HbF) and chemically | survival or decreases mean erythrocyte || modified derivatives of hemoglobin | age (e.g.,recovery from acute blood loss,| | (e.g. carbamylated Hb in patients | hemolytic anemia, HbSS, HbCC, and HbSC) || with renal failure) can affect the | will falsely lower HbA1c test results || accuracy of HbA1c measurements | regardless of the assay method used.Iron | | | deficiency anemia is associated with | | | higher HbA1c | --------------------------------------------------------------------------------- PatientReportSCSuperPanel.HBELECTRO_SC (Version: 7) Page 5 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. IntervalGLUCOSE, FASTING (F), PLASMA (Hexokinase)93.20mg/dL70.00 - 100.00 VITAMIN B12; CYANOCOBALAMIN, SERUM (CLIA) <50.00 pg/mL180.00 - 914.00 Interpretation  -------------------------------------------| Remarks | Result In pg/mL ||----------------|--------------------------|| Normal | 180 - 914 ||----------------|--------------------------|| Indeterminate | 120 - 180 ||----------------|--------------------------|| Deficient | < 120 | ------------------------------------------- Notes 1.Interpretation of the result should be considered in relation to clinical circumstances.2.It is recommended to consider supplementary testing with plasma Methylmalonic acid (MMA) or plasma homocysteine levels to determine biochemical cobalamin deficiency in presence of clinical suspicion of deficiency but indeterminate levels. Homocysteine levels are more sensitive but MMA is more specific3.False increase in Vitamin B12 levels may be observed in patients with intrinsic factor blocking antibodies, MMA measurement should be considered in such patients4.The concentration of Vitamin B12 obtained with different assay methods cannot be used interchangeably due to differences in assay methods and reagent specificity VITAMIN D, 25 - HYDROXY, SERUM (CLIA)9.44nmol/L Interpretation -------------------------------------------------------------| LEVEL | REFERENCE RANGE | COMMENTS || | IN nmol/L | ||---------------|-----------------|---------------------------|| Deficient | < 50 | High risk for developing || | | bone disease ||---------------|-----------------|---------------------------|| Insufficient | 50-74 | Vitamin D concentration || | | which normalizes || | | Parathyroid hormone || | | concentration ||---------------|-----------------|---------------------------|| Sufficient | 75-250 | Optimal concentration | PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7) Page 6 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender:Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. Interval | | | for maximal health benefit||---------------|-----------------|---------------------------|| Potential | >250 | High risk for toxic || intoxication | | effects | ------------------------------------------------------------- Note · The assay measures both D2 (Ergocalciferol) and D3 (Cholecalciferol) metabolites of vitamin D. · 25 (OH)D is influenced by sunlight, latitude, skin pigmentation, sunscreen use and hepatic function. · Optimal calcium absorption requires vitamin D 25 (OH) levels exceeding 75 nmol/L. · It shows seasonal variation, with values being 40-50% lower in winter than in summer. · Levels vary with age and are increased in pregnancy. ·  A new test Vitamin D, Ultrasensitive by LC-MS/MS is also available Comments Vitamin D promotes absorption of calcium and phosphorus and mineralization of bones and teeth. Deficiency in children causes Rickets and in adults leads to Osteomalacia. It can also lead to Hypocalcemia and Tetany. Vitamin D status is best determined by measurement of 25 hydroxy vitamin D, as it is the major circulating form and has longer half life (2-3 weeks) than 1,25 Dihydroxy vitamin D (5-8 hrs). Decreased Levels · Inadequate exposure to sunlight · Dietary deficiency · Vitamin D malabsorption · Severe Hepatocellular disease · Drugs like Anticonvulsants · Nephrotic syndrome Increased levels Vitamin D intoxication PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7) Page 7 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. IntervalTHYROID PROFILE,TOTAL, SERUM (CLIA)1.07T3, Total 0.40 - 1.81 ng/mL8.70T4, Total 5.74 - 13.03 µg/dL 8.56 TSH 0.34 - 5.60 µIU/mL Note 1.TSH levels are subject to circadian variation, reaching peak levels between 2 - 4.a.m. and at a minimum between 6-10 pm . The variation is of the order of 50% . hence time of the day has influence on the measured serum TSH concentrations.2.Alteration in concentration of Thyroid hormone binding protein can profoundly affect Total T3 and/or Total T4 levels especially in pregnancy and in patients on steroid therapy.3.Unbound fraction ( Free,T4 /Free,T3) of thyroid hormone is biologically active form and correlate more closely with clinical status of the patient than total T4/T3 concentration4.Values <0.03 uIU/mL need to be clinically correlated due to presence of a rare TSH variant in some individuals Interpretation  ----------------------------------------------------------------| PREGNANCY | REFERENCE RANGE FOR TSH IN µIU/mL ( || | As per American Thyroid Association) ||--------------------|-------------------------------------------|| 1st Trimester | 0.100 - 2.500 || | || 2nd Trimester | 0.200 - 3.000 || | || 3rd Trimester | 0.300- 3.000 | ---------------------------------------------------------------- PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6) Page 8 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. IntervalLIPID SCREEN, SERUM243.00 Cholesterol, Total(CHO-POD) <200.00 mg/dL118.40Triglycerides(GPO-POD) <150.00 mg/dL51.30HDL Cholesterol(Enzymatic Immunoinhibiti >50.00 mg/dL 168.02 LDL Cholesterol, Calculated <100.00 mg/dL23.68VLDL Cholesterol,Calculated <30.00 mg/dL 192 Non-HDL Cholesterol <130 mg/dL Interpretation   ------------------------------------------------------------------------------------------------| REMARKS | TOTAL CHOLESTEROL | TRIGLYCERIDE | LDL CHOLESTEROL | NON HDL CHOLESTEROL || | in mg/dL | in mg/dL | in mg/dL | in mg/dL ||-------------------|--------------------|---------------|-----------------|---------------------|| Optimal | <200 | <150 | <100 | <130 ||-------------------|--------------------|---------------|-----------------|---------------------|| Above Optimal | - | - | 100-129 | 130 - 159 ||-------------------|--------------------|---------------|-----------------|---------------------|| Borderline High | 200-239 | 150-199 | 130-159 | 160 - 189 ||-------------------|--------------------|---------------|-----------------|---------------------|| High | >=240 | 200-499 | 160-189 | 190 - 219 ||-------------------|--------------------|---------------|-----------------|---------------------|| Very High | - | >=500 | >=190 | >=220 | ------------------------------------------------------------------------------------------------ Note 1.Measurements in the same patient can show physiological & analytical variations. Three serial samples 1 week apart are recommended for Total Cholesterol, Triglycerides, HDL& LDL Cholesterol.2.NLA-2014 recommends a complete lipoprotein profile as the initial test for evaluating cholesterol.3.Friedewald equation to calculate LDL cholesterol is most accurate when Triglyceride level is < 400 mg/dL. Measurement of Direct LDL cholesterol is recommended when Triglyceride level is > 400 mg/dL PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6) Page 9 of 11                               
+
+AD
+
+Download to read ad-free.
+  A55 - MR. MANOJ KUMAR - FPSC MEDICAL COLLEGE710/6, MANSA DEVI ROAD,OPPOSITE MEDICAL COLLEGE, JAGRITI VIHAR MEERUTMob:9412209158, 8430858847 Name A/c Status Lab No. Ref By : Gender: Age: Report Status Reported Received Collected P ::: :::: Final51 Years14/3/2022 9:06:00AM14/3/2022 9:21:25AM327358089FemaleSELFMrs. BABITA TYAGI14/3/2022 3:03:59PMTest NameResultsUnitsBio. Ref. Interval 4.NLA-2014 identifies Non HDL Cholesterol(an indicator of all atherogeniclipoproteins such as LDL , VLDL, IDL, Lpa, Chylomicron remnants)along with LDL-cholesterol as co- primary target for cholesterol lowering therapy. Note that major risk factors can modify treatment goals for LDL &Non HDL.5.Apolipoprotein B is an optional, secondary lipid target for treatment once LDL & Non HDL goals have been achieved6.Additional testing for Apolipoprotein B, hsCRP,Lp(a ) & LP-PLA2 should be considered among patients with moderate risk for ASCVD for risk refinement Treatment Goals as per Lipid Association of India 2016  ----------------------------------------------------------------------------------------------| RISK | TREATMENT GOAL | CONSIDER THERAPY || CATEGORY |-----------------------------------------|-----------------------------------------|| | LDL CHOLESTEROL | NON HDL CHLOESTEROL | LDL CHOLESTEROL | NON HDL CHLOESTEROL || | (LDL-C)(mg/dL) | (NON HDL-C) (mg/dL) | (LDL-C)(mg/dL) | (NON HDL-C) (mg/dL) ||----------|------------------|----------------------|------------------|----------------------|| Very | <50 | <80 | >=50 | >=80 || High | | | | ||----------|------------------|----------------------|------------------|----------------------|| High | <70 | <100 | >=70 | >=100 ||----------|------------------|----------------------|------------------|----------------------|| Moderate | <100 | <130 | >=100 | >=130 ||----------|------------------|----------------------|------------------|----------------------|| Low | <100 | <130 | >=130* | >=160* | ---------------------------------------------------------------------------------------------- *In low risk patient, consider therapy after an initial non-pharmacological intervention for at least 3 months Dr Ankit JainMD, PathologyChief of Laboratory Dr Lal PathLabs LtdDr.Sandeep YadavMBBS,MD (Biochemistry)Consultant Biochemist Dr Lal PathLabs LtdDr Virendra TapparwalMD, PathologyConsultant Pathologist Dr Lal PathLabs Ltds
